@@ -1,0 +1,16 @@
+torch
+torchvision
+torchaudio
+torchtext
+torchdata
+notebook
+scikit-learn
+pandas
+matplotlib
+seaborn
+nltk
+pymorphy3
+
+aiohttp
+uvicorn
+fastapi
