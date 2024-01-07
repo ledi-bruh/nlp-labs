@@ -10,7 +10,10 @@ matplotlib
 seaborn
 nltk
 pymorphy3
+razdel
 
 aiohttp
 uvicorn
 fastapi
+
+orjson
