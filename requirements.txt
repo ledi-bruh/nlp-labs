@@ -11,6 +11,8 @@ seaborn
 nltk
 pymorphy3
 razdel
+transformers
+scikit-learn
 
 aiohttp
 uvicorn
